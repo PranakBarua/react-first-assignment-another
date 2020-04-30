@@ -14,7 +14,8 @@ const Cart = (props) => {
             <h3>Add friend : {cart.length}</h3>
             <h5><small>Total salary : {total}</small></h5>
 
-            <h4>{friend.name} is your new friend</h4>
+            <h4>{friend.name} is your new friend
+            </h4>
            
         </div>
     );
