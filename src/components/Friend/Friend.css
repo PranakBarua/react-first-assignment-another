@@ -1,0 +1,18 @@
+.card{
+    width: 400px;
+}
+.card img{
+    width: 100%;
+    height:300px;
+}
+.container{
+    margin-left: 0px;
+}
+.add-button{
+    background-color: tomato;
+    width: 150px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.header img{
+    height: 200px;
+    width: 33%;
+}
+nav{
+    background-color: black;
+    line-height: 50px;
+    font-size: 20px;
+    text-align: start;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 6px;
+}
+.home{
+    margin-left: 50px;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: tomato;
+}
